@@ -11,6 +11,8 @@ https://ericahagle.github.io/ideabox/
 ---
 ### Preview of App:
 ![Screen shot of App](assets/ideabox.png)
+
+The site is live at https://butlertree.github.io/ideabox/
 ---
 ### Context:
 We worked on this project as our Mod 1 Group Assignment and had one week to work on it. As of the submission of the project we will have completed Week 4 of Mod 1 of the Front End Engineering program at Turing School of Software and Design.
